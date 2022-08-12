@@ -1,0 +1,5 @@
+public class Steak extends GameItem {
+  public Steak() {
+    super("Steak", 5.25);
+  }
+}

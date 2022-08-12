@@ -1,0 +1,5 @@
+public class Bread extends GameItem {
+  public Bread() {
+    super("Bread", 1.25);
+  }
+}
